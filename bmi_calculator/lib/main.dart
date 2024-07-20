@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'input_page.dart';
+import 'pages/input_page.dart';
 
 void main() => runApp(BMICalculator());
 
@@ -17,4 +17,3 @@ class BMICalculator extends StatelessWidget {
     );
   }
 }
-
